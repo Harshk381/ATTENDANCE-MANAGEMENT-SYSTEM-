@@ -95,7 +95,7 @@ Send-Button at the top to save your attendance details
 • ADMIN DASHBOARD 
 Note: This Is not mentioned in the Faculty and Student User Interface. 
 The admin can edit i.e., Update the details of the classes like 
-Subject Code Current Year semester (ReferFig6.1.15) 
+Subject Code Current Year semester
  
 CONCLUSION AND FUTURE ENHANCEMENT 
 
