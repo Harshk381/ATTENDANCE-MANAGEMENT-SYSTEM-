@@ -98,6 +98,7 @@ The admin can edit i.e., Update the details of the classes like
 Subject Code Current Year semester (ReferFig6.1.15) 
  
 CONCLUSION AND FUTURE ENHANCEMENT 
+
 •	CONCLUSION 
 To conclude, Project Data Grid works like a component that can access all the databases and pick up different functions. It overcomes the many limitations incorporated in attendance. 
 Easy implementation Environment 
